@@ -1,0 +1,75 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "login": "dhiogobn",
+      "password": "teste123",
+      "email": "dhiogobn@gmail.com",
+      "birthDate": "1995-09-05",
+      "city": "campina grande",
+      "state": "paraiba"
+    },
+    {
+      "login": "dhiogobn1",
+      "password": "teste",
+      "email": "dhiogobn2@gmail.com",
+      "birthDate": "1995-09-05",
+      "city": "joão pessoa",
+      "state": "PB",
+      "id": 2
+    },
+    {
+      "login": "dhiogobn1",
+      "password": "teste",
+      "email": "dhiogobn2@gmail.com",
+      "birthDate": "1995-09-05",
+      "city": "joão pessoa",
+      "state": "PB",
+      "id": 3
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "text": "Exemplo questão 1",
+      "gender": "internet",
+      "level": 1,
+      "answer": "b"
+    }, 
+    {
+      "id": 2,
+      "text": "Exemplo questão 2",
+      "gender": "internet",
+      "level": 1,
+      "answer": "a"
+    }, 
+    {
+      "id": 3,
+      "text": "Exemplo questão 3",
+      "gender": "internet",
+      "level": 1,
+      "answer": "c"
+    }, 
+    {
+      "id": 4,
+      "text": "Exemplo questão 1 banco",
+      "gender": "bank",
+      "level": 1,
+      "answer": "b"
+    }, 
+    {
+      "id": 5,
+      "text": "Exemplo questão 1 redes sociais",
+      "gender": "social",
+      "level": 1,
+      "answer": "b"
+    }, 
+    {
+      "id": 4,
+      "text": "Exemplo questão 1 senhas",
+      "gender": "password",
+      "level": 1,
+      "answer": "b"
+    }
+  ]
+}
