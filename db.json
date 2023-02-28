@@ -5,15 +5,20 @@
       "login": "dhiogobn",
       "password": "teste123",
       "email": "dhiogobn@gmail.com",
-      "birthDate": "1995-09-05",
+      "birthDate": "1234-12-12",
       "city": "campina grande",
-      "state": "paraiba"
+      "state": "paraiba",
+      "wallet": {
+        "id": 1,
+        "points": 100
+      },
+      "image": "https://seriemaniacos.tv/wp-content/uploads/2018/04/Ian-Somerhalder-1068x666.jpg"
     },
     {
       "login": "dhiogobn1",
       "password": "teste",
       "email": "dhiogobn2@gmail.com",
-      "birthDate": "1995-09-05",
+      "birthDate": "1234-12-12",
       "city": "joão pessoa",
       "state": "PB",
       "id": 2
@@ -22,7 +27,7 @@
       "login": "dhiogobn1",
       "password": "teste",
       "email": "dhiogobn2@gmail.com",
-      "birthDate": "1995-09-05",
+      "birthDate": "1234-12-12",
       "city": "joão pessoa",
       "state": "PB",
       "id": 3
@@ -65,11 +70,17 @@
       "answer": "b"
     }, 
     {
-      "id": 4,
+      "id": 6,
       "text": "Exemplo questão 1 senhas",
       "gender": "password",
       "level": 1,
       "answer": "b"
+    }
+  ],
+  "wallets": [
+    {
+      "id": 1,
+      "points": 0
     }
   ]
 }
